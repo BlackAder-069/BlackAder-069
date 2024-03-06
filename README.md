@@ -1,4 +1,4 @@
-
+![Header](./Pranav.png)
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
