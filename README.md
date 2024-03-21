@@ -1,16 +1,15 @@
 ![Header](./Pranav.png)
 
 <h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">A passionate Computer Science Student from India</h3>
+<h3 align="center">A passionate Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/jHg-q58KgiYAAAAM/scaler-create-impact.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 Working on **AI and ML**
 
-- 📫 How to reach me **pranav.jigalur@gmail.com**
+- 📫 Reach me at **pranav.jigalur@gmail.com**
 
-- ⚡ Fun fact **I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
